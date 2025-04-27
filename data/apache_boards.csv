@@ -1,0 +1,252 @@
+id,self,name,type
+528,https://issues.apache.org/jira/rest/agile/1.0/board/528, Release 1.15 Quality track,kanban
+365,https://issues.apache.org/jira/rest/agile/1.0/board/365,0.6.1,scrum
+582,https://issues.apache.org/jira/rest/agile/1.0/board/582,1.18 Burndown,kanban
+594,https://issues.apache.org/jira/rest/agile/1.0/board/594,1.19 Burndown,kanban
+604,https://issues.apache.org/jira/rest/agile/1.0/board/604,1.20 Burndown,kanban
+585,https://issues.apache.org/jira/rest/agile/1.0/board/585,2.0 Burndown,kanban
+510,https://issues.apache.org/jira/rest/agile/1.0/board/510,3.0-Development,kanban
+2,https://issues.apache.org/jira/rest/agile/1.0/board/2,4.0.1,kanban
+420,https://issues.apache.org/jira/rest/agile/1.0/board/420,40CleanScopeFull,kanban
+520,https://issues.apache.org/jira/rest/agile/1.0/board/520,Advent Calendar 2021,kanban
+581,https://issues.apache.org/jira/rest/agile/1.0/board/581,Ambari Metrics Releases 3.0.x,kanban
+570,https://issues.apache.org/jira/rest/agile/1.0/board/570,Ambari Releases 2.8.x,kanban
+469,https://issues.apache.org/jira/rest/agile/1.0/board/469,Android SDK Board,kanban
+190,https://issues.apache.org/jira/rest/agile/1.0/board/190,android-next,kanban
+444,https://issues.apache.org/jira/rest/agile/1.0/board/444,Apache AGE,kanban
+75,https://issues.apache.org/jira/rest/agile/1.0/board/75,Apache Airavata,scrum
+416,https://issues.apache.org/jira/rest/agile/1.0/board/416,Apache Atlas,kanban
+38,https://issues.apache.org/jira/rest/agile/1.0/board/38,Apache Aurora Triage Board,kanban
+60,https://issues.apache.org/jira/rest/agile/1.0/board/60,Apache Aurora Triage Board (Kanban),kanban
+37,https://issues.apache.org/jira/rest/agile/1.0/board/37,Apache Aurora Twitter Scrum,scrum
+625,https://issues.apache.org/jira/rest/agile/1.0/board/625,Apache Creadur RAT,kanban
+307,https://issues.apache.org/jira/rest/agile/1.0/board/307,Apache DataLab,scrum
+185,https://issues.apache.org/jira/rest/agile/1.0/board/185,Apache Drill,kanban
+438,https://issues.apache.org/jira/rest/agile/1.0/board/438,Apache Drill 1.19 Kanban Board,kanban
+104,https://issues.apache.org/jira/rest/agile/1.0/board/104,Apache Eagle,scrum
+382,https://issues.apache.org/jira/rest/agile/1.0/board/382,Apache Fineract CN Scrum Board,scrum
+473,https://issues.apache.org/jira/rest/agile/1.0/board/473,Apache Fineract GSOC 2021 Board,kanban
+236,https://issues.apache.org/jira/rest/agile/1.0/board/236,Apache Fineract Scrum Board,scrum
+454,https://issues.apache.org/jira/rest/agile/1.0/board/454,Apache Flink Deployment & Coordination 1.14,kanban
+452,https://issues.apache.org/jira/rest/agile/1.0/board/452,Apache Flink Stateful Functions,kanban
+564,https://issues.apache.org/jira/rest/agile/1.0/board/564,Apache Hive,kanban
+308,https://issues.apache.org/jira/rest/agile/1.0/board/308,Apache IoTDB,scrum
+309,https://issues.apache.org/jira/rest/agile/1.0/board/309,Apache IoTDB (KanBan),kanban
+492,https://issues.apache.org/jira/rest/agile/1.0/board/492,Apache IoTDB Sprints,scrum
+68,https://issues.apache.org/jira/rest/agile/1.0/board/68,Apache Kylin,scrum
+517,https://issues.apache.org/jira/rest/agile/1.0/board/517,Apache Log4j 2,kanban
+80,https://issues.apache.org/jira/rest/agile/1.0/board/80,Apache Mahout,scrum
+1,https://issues.apache.org/jira/rest/agile/1.0/board/1,Apache Mesos,kanban
+282,https://issues.apache.org/jira/rest/agile/1.0/board/282,Apache Mesos API,kanban
+258,https://issues.apache.org/jira/rest/agile/1.0/board/258,Apache Mesos Containerization,kanban
+204,https://issues.apache.org/jira/rest/agile/1.0/board/204,Apache Mesos Flaky Tests,kanban
+289,https://issues.apache.org/jira/rest/agile/1.0/board/289,Apache Mesos Integration,scrum
+111,https://issues.apache.org/jira/rest/agile/1.0/board/111,Apache Mesos Kanban,kanban
+62,https://issues.apache.org/jira/rest/agile/1.0/board/62,Apache Mesos Mesosphere Scrum,scrum
+188,https://issues.apache.org/jira/rest/agile/1.0/board/188,Apache Mesos Multitenancy,scrum
+238,https://issues.apache.org/jira/rest/agile/1.0/board/238,Apache Mesos Performance,kanban
+151,https://issues.apache.org/jira/rest/agile/1.0/board/151,Apache Mesos Technical Debt,kanban
+55,https://issues.apache.org/jira/rest/agile/1.0/board/55,Apache Mesos Triage,kanban
+35,https://issues.apache.org/jira/rest/agile/1.0/board/35,Apache Mesos Twitter Scrum,scrum
+322,https://issues.apache.org/jira/rest/agile/1.0/board/322,Apache Milagro,kanban
+211,https://issues.apache.org/jira/rest/agile/1.0/board/211,Apache MXNet,scrum
+278,https://issues.apache.org/jira/rest/agile/1.0/board/278,Apache MXNet Backend,scrum
+237,https://issues.apache.org/jira/rest/agile/1.0/board/237,Apache MXNet Kanban,kanban
+271,https://issues.apache.org/jira/rest/agile/1.0/board/271,Apache MXNet Scala/Java,scrum
+287,https://issues.apache.org/jira/rest/agile/1.0/board/287,Apache MXNet SDK Board,scrum
+118,https://issues.apache.org/jira/rest/agile/1.0/board/118,Apache REEF,kanban
+337,https://issues.apache.org/jira/rest/agile/1.0/board/337,Apache SDAP,scrum
+521,https://issues.apache.org/jira/rest/agile/1.0/board/521,Apache UIMA,kanban
+379,https://issues.apache.org/jira/rest/agile/1.0/board/379,Apache UIMA Add-Ons,kanban
+377,https://issues.apache.org/jira/rest/agile/1.0/board/377,Apache UIMA Core C++,kanban
+418,https://issues.apache.org/jira/rest/agile/1.0/board/418,Apache UIMA Hot Topics,kanban
+376,https://issues.apache.org/jira/rest/agile/1.0/board/376,Apache UIMA Java SDK,kanban
+392,https://issues.apache.org/jira/rest/agile/1.0/board/392,Apache UIMA Ruta,kanban
+378,https://issues.apache.org/jira/rest/agile/1.0/board/378,Apache UIMA Sandbox,kanban
+380,https://issues.apache.org/jira/rest/agile/1.0/board/380,Apache UIMA Sites,kanban
+375,https://issues.apache.org/jira/rest/agile/1.0/board/375,Apache UIMA uimaFIT,kanban
+381,https://issues.apache.org/jira/rest/agile/1.0/board/381,Apache UIMA-AS,kanban
+161,https://issues.apache.org/jira/rest/agile/1.0/board/161,Apache VCL Documentation Rewrite,kanban
+150,https://issues.apache.org/jira/rest/agile/1.0/board/150,AriaTosca Scrum Board,scrum
+486,https://issues.apache.org/jira/rest/agile/1.0/board/486,Arrow test,scrum
+459,https://issues.apache.org/jira/rest/agile/1.0/board/459,AsterixDB,kanban
+598,https://issues.apache.org/jira/rest/agile/1.0/board/598,Backlog,kanban
+325,https://issues.apache.org/jira/rest/agile/1.0/board/325,Beam (all/historical),kanban
+352,https://issues.apache.org/jira/rest/agile/1.0/board/352,Beam 2020 - Load testing and improvements,scrum
+464,https://issues.apache.org/jira/rest/agile/1.0/board/464,Beam Flakes,kanban
+242,https://issues.apache.org/jira/rest/agile/1.0/board/242,Beam Gradle Migration,kanban
+514,https://issues.apache.org/jira/rest/agile/1.0/board/514,Beam open with PR,kanban
+525,https://issues.apache.org/jira/rest/agile/1.0/board/525,Beam Python Interrupts,kanban
+371,https://issues.apache.org/jira/rest/agile/1.0/board/371,Beam SQL Kanban,kanban
+519,https://issues.apache.org/jira/rest/agile/1.0/board/519,Beam Starter Tasks,kanban
+456,https://issues.apache.org/jira/rest/agile/1.0/board/456,Beam Triage,kanban
+474,https://issues.apache.org/jira/rest/agile/1.0/board/474,Beam Triage,kanban
+522,https://issues.apache.org/jira/rest/agile/1.0/board/522,Beam Triage (last 6 months),kanban
+511,https://issues.apache.org/jira/rest/agile/1.0/board/511,Branch 2.x Release,kanban
+50,https://issues.apache.org/jira/rest/agile/1.0/board/50,Brooklyn Kanban,kanban
+193,https://issues.apache.org/jira/rest/agile/1.0/board/193,browser-next,kanban
+212,https://issues.apache.org/jira/rest/agile/1.0/board/212,BUG BASH,kanban
+107,https://issues.apache.org/jira/rest/agile/1.0/board/107,Camera issues,kanban
+355,https://issues.apache.org/jira/rest/agile/1.0/board/355,Cassandra 4.0GAScope,kanban
+546,https://issues.apache.org/jira/rest/agile/1.0/board/546,Cassandra 4.1 GA scope,kanban
+593,https://issues.apache.org/jira/rest/agile/1.0/board/593,Cassandra 5.0 GA scope,kanban
+595,https://issues.apache.org/jira/rest/agile/1.0/board/595,Cassandra 5.1 GA,kanban
+609,https://issues.apache.org/jira/rest/agile/1.0/board/609,Cassandra Java Client Driver,kanban
+463,https://issues.apache.org/jira/rest/agile/1.0/board/463,Cassandra Non committers,kanban
+83,https://issues.apache.org/jira/rest/agile/1.0/board/83,Cassandra Release Plan,scrum
+39,https://issues.apache.org/jira/rest/agile/1.0/board/39,Cassandra Test Engineering,kanban
+495,https://issues.apache.org/jira/rest/agile/1.0/board/495,Cassandra website & documentation,kanban
+496,https://issues.apache.org/jira/rest/agile/1.0/board/496,CassandraOpenTestFailures,kanban
+578,https://issues.apache.org/jira/rest/agile/1.0/board/578,Catalyst-Backlog,scrum
+87,https://issues.apache.org/jira/rest/agile/1.0/board/87,Causeway Kanban,kanban
+599,https://issues.apache.org/jira/rest/agile/1.0/board/599,classic,kanban
+323,https://issues.apache.org/jira/rest/agile/1.0/board/323,Copy of Apache DLab,scrum
+460,https://issues.apache.org/jira/rest/agile/1.0/board/460,Copy of AsterixDB,kanban
+507,https://issues.apache.org/jira/rest/agile/1.0/board/507,Copy of Infrastructure,kanban
+195,https://issues.apache.org/jira/rest/agile/1.0/board/195,Cordova Backlog by Component,kanban
+109,https://issues.apache.org/jira/rest/agile/1.0/board/109,cordova fetch,kanban
+101,https://issues.apache.org/jira/rest/agile/1.0/board/101,cordova-6.0.0,kanban
+122,https://issues.apache.org/jira/rest/agile/1.0/board/122,cordova-android-6.0.x,kanban
+198,https://issues.apache.org/jira/rest/agile/1.0/board/198,cordova-docs Next Release,kanban
+131,https://issues.apache.org/jira/rest/agile/1.0/board/131,cordova-easyfix,kanban
+173,https://issues.apache.org/jira/rest/agile/1.0/board/173,cordova-ios-4.5.0,kanban
+179,https://issues.apache.org/jira/rest/agile/1.0/board/179,cordova-ios-4.5.1,kanban
+86,https://issues.apache.org/jira/rest/agile/1.0/board/86,cordova-ios-5.0.x,kanban
+477,https://issues.apache.org/jira/rest/agile/1.0/board/477,Credit Scorecard Module Board,kanban
+256,https://issues.apache.org/jira/rest/agile/1.0/board/256,Databricks ML Alg OSS,kanban
+368,https://issues.apache.org/jira/rest/agile/1.0/board/368,Default NLPCraft Kanban,kanban
+108,https://issues.apache.org/jira/rest/agile/1.0/board/108,Docs-6.x,kanban
+506,https://issues.apache.org/jira/rest/agile/1.0/board/506,Drill Current Release,kanban
+363,https://issues.apache.org/jira/rest/agile/1.0/board/363,"Driver-S7, 0.6.1",scrum
+443,https://issues.apache.org/jira/rest/agile/1.0/board/443,Ducktape,scrum
+419,https://issues.apache.org/jira/rest/agile/1.0/board/419,Extended Protocol Support,scrum
+32,https://issues.apache.org/jira/rest/agile/1.0/board/32,Fauxton,kanban
+116,https://issues.apache.org/jira/rest/agile/1.0/board/116,filters,kanban
+562,https://issues.apache.org/jira/rest/agile/1.0/board/562,Fineract Tickets Clean Up,kanban
+324,https://issues.apache.org/jira/rest/agile/1.0/board/324,Flagon Kanban,kanban
+135,https://issues.apache.org/jira/rest/agile/1.0/board/135,FLAGON SCRUM,scrum
+45,https://issues.apache.org/jira/rest/agile/1.0/board/45,Flex Board,kanban
+44,https://issues.apache.org/jira/rest/agile/1.0/board/44,Flex-BlazeDS Board,kanban
+43,https://issues.apache.org/jira/rest/agile/1.0/board/43,Flex-FlexUnit Board,kanban
+366,https://issues.apache.org/jira/rest/agile/1.0/board/366,Flink 1.11 Bugs,kanban
+356,https://issues.apache.org/jira/rest/agile/1.0/board/356,"Flink 1.11.0 Usability ""Sprint""",kanban
+406,https://issues.apache.org/jira/rest/agile/1.0/board/406,Flink 1.12 Burndown,kanban
+445,https://issues.apache.org/jira/rest/agile/1.0/board/445,Flink 1.13 Burndown,kanban
+468,https://issues.apache.org/jira/rest/agile/1.0/board/468,Flink 1.14 Burndown,kanban
+505,https://issues.apache.org/jira/rest/agile/1.0/board/505,Flink 1.15 Burndown,kanban
+561,https://issues.apache.org/jira/rest/agile/1.0/board/561,Flink 1.16 Burndown,kanban
+607,https://issues.apache.org/jira/rest/agile/1.0/board/607,Flink CDC 3.2 Burndown,kanban
+614,https://issues.apache.org/jira/rest/agile/1.0/board/614,Flink CDC 3.3 Burndown,kanban
+476,https://issues.apache.org/jira/rest/agile/1.0/board/476,Flink on YARN,kanban
+295,https://issues.apache.org/jira/rest/agile/1.0/board/295,Geode Benchmarks,scrum
+267,https://issues.apache.org/jira/rest/agile/1.0/board/267,Geode Green Pipeline,kanban
+333,https://issues.apache.org/jira/rest/agile/1.0/board/333,Geode Manageability V2,kanban
+92,https://issues.apache.org/jira/rest/agile/1.0/board/92,Geode-Release,scrum
+196,https://issues.apache.org/jira/rest/agile/1.0/board/196,Gobblin Team Board,scrum
+621,https://issues.apache.org/jira/rest/agile/1.0/board/621,GoCQL 2.0.0,kanban
+622,https://issues.apache.org/jira/rest/agile/1.0/board/622,GoCQL in progress,kanban
+389,https://issues.apache.org/jira/rest/agile/1.0/board/389,Hadoop,scrum
+170,https://issues.apache.org/jira/rest/agile/1.0/board/170,HBase Review Queue,scrum
+260,https://issues.apache.org/jira/rest/agile/1.0/board/260,HDDS Kanban,kanban
+261,https://issues.apache.org/jira/rest/agile/1.0/board/261,HDDS Scrum,scrum
+18,https://issues.apache.org/jira/rest/agile/1.0/board/18,Helix Agile SCRUM,scrum
+425,https://issues.apache.org/jira/rest/agile/1.0/board/425,Hop Board,kanban
+584,https://issues.apache.org/jira/rest/agile/1.0/board/584,Hudi 1.0 ,kanban
+451,https://issues.apache.org/jira/rest/agile/1.0/board/451,Hudi Continuous Improvement,kanban
+487,https://issues.apache.org/jira/rest/agile/1.0/board/487,Ignite Core,kanban
+123,https://issues.apache.org/jira/rest/agile/1.0/board/123,ijkukiu,scrum
+178,https://issues.apache.org/jira/rest/agile/1.0/board/178,Impala Ramp-Up Tasks,kanban
+199,https://issues.apache.org/jira/rest/agile/1.0/board/199,Indexing Improvements 1.8,scrum
+25,https://issues.apache.org/jira/rest/agile/1.0/board/25,Infrastructure,kanban
+394,https://issues.apache.org/jira/rest/agile/1.0/board/394,ingestion_2020,scrum
+192,https://issues.apache.org/jira/rest/agile/1.0/board/192,ios-next,kanban
+512,https://issues.apache.org/jira/rest/agile/1.0/board/512,IoTDB 0.13.0,scrum
+513,https://issues.apache.org/jira/rest/agile/1.0/board/513,IoTDB 0.13.0 release,scrum
+547,https://issues.apache.org/jira/rest/agile/1.0/board/547,IoTDB QA issues,kanban
+612,https://issues.apache.org/jira/rest/agile/1.0/board/612,James,kanban
+221,https://issues.apache.org/jira/rest/agile/1.0/board/221,Java Chassis,kanban
+30,https://issues.apache.org/jira/rest/agile/1.0/board/30,jbellis,kanban
+471,https://issues.apache.org/jira/rest/agile/1.0/board/471,JEXL Scrum,scrum
+177,https://issues.apache.org/jira/rest/agile/1.0/board/177,Kanban Traffic Control All,kanban
+246,https://issues.apache.org/jira/rest/agile/1.0/board/246,kanban_griffin,kanban
+421,https://issues.apache.org/jira/rest/agile/1.0/board/421,Liminal,kanban
+608,https://issues.apache.org/jira/rest/agile/1.0/board/608,Livy Kanban,kanban
+146,https://issues.apache.org/jira/rest/agile/1.0/board/146,LRMA,scrum
+280,https://issues.apache.org/jira/rest/agile/1.0/board/280,Mesos CLI Board,kanban
+63,https://issues.apache.org/jira/rest/agile/1.0/board/63,Mesos Community Triage Board,kanban
+128,https://issues.apache.org/jira/rest/agile/1.0/board/128,Metron Agile Board,scrum
+321,https://issues.apache.org/jira/rest/agile/1.0/board/321,Mina,scrum
+405,https://issues.apache.org/jira/rest/agile/1.0/board/405,MiNiFi-CPP-Hygiene,kanban
+391,https://issues.apache.org/jira/rest/agile/1.0/board/391,MINIFICPP Kanban Board,kanban
+197,https://issues.apache.org/jira/rest/agile/1.0/board/197,morakot,scrum
+285,https://issues.apache.org/jira/rest/agile/1.0/board/285,MXNet C/C++ API,scrum
+220,https://issues.apache.org/jira/rest/agile/1.0/board/220,NetBeans - Documentation,kanban
+216,https://issues.apache.org/jira/rest/agile/1.0/board/216,NetBeans Kanban,kanban
+565,https://issues.apache.org/jira/rest/agile/1.0/board/565,Next Release: 3.0.7,kanban
+316,https://issues.apache.org/jira/rest/agile/1.0/board/316,NiFi Security Kanban,kanban
+12,https://issues.apache.org/jira/rest/agile/1.0/board/12,NPanday,kanban
+57,https://issues.apache.org/jira/rest/agile/1.0/board/57,NPanday (Advanced :-)),kanban
+623,https://issues.apache.org/jira/rest/agile/1.0/board/623,Nutch 1.21 Kanban,kanban
+20,https://issues.apache.org/jira/rest/agile/1.0/board/20,Oak Board,kanban
+93,https://issues.apache.org/jira/rest/agile/1.0/board/93,Oak Epics,kanban
+125,https://issues.apache.org/jira/rest/agile/1.0/board/125,oak-segment-tar,kanban
+544,https://issues.apache.org/jira/rest/agile/1.0/board/544,object_storage_proto,scrum
+7,https://issues.apache.org/jira/rest/agile/1.0/board/7,ODE Planning,scrum
+318,https://issues.apache.org/jira/rest/agile/1.0/board/318,OFBiz Scrum Board,scrum
+14,https://issues.apache.org/jira/rest/agile/1.0/board/14,OpenJPA,scrum
+301,https://issues.apache.org/jira/rest/agile/1.0/board/301,OpenOffice Development Status Board,kanban
+300,https://issues.apache.org/jira/rest/agile/1.0/board/300,OpenOffice Translation,kanban
+616,https://issues.apache.org/jira/rest/agile/1.0/board/616,OSSCA 2024,kanban
+354,https://issues.apache.org/jira/rest/agile/1.0/board/354,Otto's Metron Board,kanban
+398,https://issues.apache.org/jira/rest/agile/1.0/board/398,Ozone,kanban
+523,https://issues.apache.org/jira/rest/agile/1.0/board/523,Ozone EC,kanban
+58,https://issues.apache.org/jira/rest/agile/1.0/board/58,Phoenix-3.2-4.2,scrum
+446,https://issues.apache.org/jira/rest/agile/1.0/board/446,PLC4X,kanban
+194,https://issues.apache.org/jira/rest/agile/1.0/board/194,plugins-next,kanban
+390,https://issues.apache.org/jira/rest/agile/1.0/board/390,Porting TsFile to Native,scrum
+600,https://issues.apache.org/jira/rest/agile/1.0/board/600,qumat,kanban
+567,https://issues.apache.org/jira/rest/agile/1.0/board/567,Roadmap from Issues,kanban
+155,https://issues.apache.org/jira/rest/agile/1.0/board/155,RocketMQ Kanban Board,kanban
+156,https://issues.apache.org/jira/rest/agile/1.0/board/156,RocketMQ Scrum Board,scrum
+294,https://issues.apache.org/jira/rest/agile/1.0/board/294,S3A TODO,kanban
+222,https://issues.apache.org/jira/rest/agile/1.0/board/222,Saga,kanban
+183,https://issues.apache.org/jira/rest/agile/1.0/board/183,Scrum Traffic Control All,scrum
+447,https://issues.apache.org/jira/rest/agile/1.0/board/447,SE Team,scrum
+588,https://issues.apache.org/jira/rest/agile/1.0/board/588,Security workflow,kanban
+223,https://issues.apache.org/jira/rest/agile/1.0/board/223,service-center,kanban
+148,https://issues.apache.org/jira/rest/agile/1.0/board/148,Shefi,kanban
+41,https://issues.apache.org/jira/rest/agile/1.0/board/41,Slider Scrum ,scrum
+54,https://issues.apache.org/jira/rest/agile/1.0/board/54,Sling IDE Tooling,kanban
+448,https://issues.apache.org/jira/rest/agile/1.0/board/448,Sling Starter Next,kanban
+293,https://issues.apache.org/jira/rest/agile/1.0/board/293,Small Features,kanban
+626,https://issues.apache.org/jira/rest/agile/1.0/board/626,Solr Admin UI Migration,kanban
+577,https://issues.apache.org/jira/rest/agile/1.0/board/577,Spark Connect,kanban
+85,https://issues.apache.org/jira/rest/agile/1.0/board/85,Spark MLlib,scrum
+136,https://issues.apache.org/jira/rest/agile/1.0/board/136,Spark on Mesos,kanban
+138,https://issues.apache.org/jira/rest/agile/1.0/board/138,Spark on Mesos Community Scrum,scrum
+147,https://issues.apache.org/jira/rest/agile/1.0/board/147,Streams Scrum,scrum
+350,https://issues.apache.org/jira/rest/agile/1.0/board/350,Submarine Kanban,kanban
+351,https://issues.apache.org/jira/rest/agile/1.0/board/351,Submarine Scrum,scrum
+484,https://issues.apache.org/jira/rest/agile/1.0/board/484,Supported Cassandra Branches,kanban
+466,https://issues.apache.org/jira/rest/agile/1.0/board/466,SystemDS sprint,kanban
+241,https://issues.apache.org/jira/rest/agile/1.0/board/241,Test,kanban
+619,https://issues.apache.org/jira/rest/agile/1.0/board/619,Test Hudi Sprint,scrum
+29,https://issues.apache.org/jira/rest/agile/1.0/board/29,The Merges,kanban
+303,https://issues.apache.org/jira/rest/agile/1.0/board/303,Third Donation Tutorial Review,kanban
+499,https://issues.apache.org/jira/rest/agile/1.0/board/499,tinkerpop,kanban
+171,https://issues.apache.org/jira/rest/agile/1.0/board/171,tools-next,kanban
+200,https://issues.apache.org/jira/rest/agile/1.0/board/200,Traffic Control Release 2.1,kanban
+302,https://issues.apache.org/jira/rest/agile/1.0/board/302,TranslationProzess AOO,scrum
+353,https://issues.apache.org/jira/rest/agile/1.0/board/353,Tube Board,kanban
+367,https://issues.apache.org/jira/rest/agile/1.0/board/367,Tutorial Review 3rd Donation,kanban
+98,https://issues.apache.org/jira/rest/agile/1.0/board/98,UIMA Version 3,scrum
+23,https://issues.apache.org/jira/rest/agile/1.0/board/23,Usergrid,scrum
+70,https://issues.apache.org/jira/rest/agile/1.0/board/70,Usergrid Kanban,kanban
+298,https://issues.apache.org/jira/rest/agile/1.0/board/298,Viktor's Upstream Board,kanban
+450,https://issues.apache.org/jira/rest/agile/1.0/board/450,Wayang kan,kanban
+601,https://issues.apache.org/jira/rest/agile/1.0/board/601,website,kanban
+433,https://issues.apache.org/jira/rest/agile/1.0/board/433,Website Board,scrum
+191,https://issues.apache.org/jira/rest/agile/1.0/board/191,windows-next,kanban
+384,https://issues.apache.org/jira/rest/agile/1.0/board/384,WIP,kanban
+596,https://issues.apache.org/jira/rest/agile/1.0/board/596,Xalan-J,kanban
+121,https://issues.apache.org/jira/rest/agile/1.0/board/121,小千懂事会,scrum
